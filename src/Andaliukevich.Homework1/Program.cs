@@ -6,7 +6,7 @@ namespace Andaliukevich.Homework1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Pavel");
+            Console.WriteLine("Hello. Pavel");
             Console.ReadLine();
         }
     }
